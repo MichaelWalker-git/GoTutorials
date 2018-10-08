@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf53f3e9-bb43-4513-8713-fde8f32a5984" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/cards/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cards/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +16,8 @@
       <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cards/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="150">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -110,7 +108,7 @@
     </option>
   </component>
   <component name="ToolWindowManager">
-    <frame x="693" y="0" width="747" height="900" extended-state="6" />
+    <frame x="643" y="0" width="797" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.3617021" />
@@ -156,8 +154,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cards/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>

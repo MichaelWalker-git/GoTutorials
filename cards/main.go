@@ -1,14 +1,14 @@
 package main
 
-import "fmt"
-
 func main(){
-	//cards := cards.newDeck()
-	//cards.print()
+	cards := newDeck()
 
-	greeting := "Hi there!"
-	fmt.Println([]byte(greeting))
+	hand, remainingCards := deal(cards, 5)
+
+	hand.print()
+	remainingCards.print()
 }
+
 
 // Need to define our expected return value (Explicit typing)
 //func newCard() string {

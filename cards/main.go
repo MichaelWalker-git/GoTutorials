@@ -2,16 +2,11 @@ package main
 
 func main(){
 	cards := newDeck()
-
-	hand, remainingCards := deal(cards, 5)
-
-	hand.print()
-	remainingCards.print()
+	cards.saveFile("my_cards")
 }
 
-
 // Need to define our expected return value (Explicit typing)
-//func newCard() string {
+//func newCard() string {go
 //	return "Five of Diamonds"
 //}
 
@@ -22,11 +17,10 @@ func main(){
 
 // Both arrays and slices must be of identical types
 
-
 // understanding func WriteFile(filename string, data []byte, perm os.FileMode) error
 //  data = raw data written to hard drive, slice of bytes (byte slice)
 // perm = permissions used to create that file, if we need to create it
 
 // a byte slice, think of a string, ascii character code
 
-//Type conversion
+// Type conversion
